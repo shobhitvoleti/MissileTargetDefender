@@ -8,5 +8,4 @@ All of the solutions I've looked at considers the reduced order problem through 
 However, I've adopted the solution obtained from the Differential Riccati equation of the modified problem. As in literature, the optimisation problem has been modified and expressed using a state vector constructed from projected states derived through the state transition matrices. The control for each player has been obtained by integrating backwards in time based on terminal boundary conditions twice for two sepaprate time periods. A sufficient condition to ensure saddle point solution to exist has been stated and the system has been simulated on MATLAB. The defender is assumed to stop acting after the first duration of time. Assumption has been made that the missile, target and defender are decisive and their control actions are unbounded and simulation has been designed as such. 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 The simulations have been performed on MATLAB and the .m file has been provided along with a detailed report
