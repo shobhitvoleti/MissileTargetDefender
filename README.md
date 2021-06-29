@@ -1,5 +1,4 @@
 # MissileTargetDefender
-Missile Target Defender Problem
 I have looked a solution to the Missile Target Defender game: A spin on the 2 player pursuit evasion game, this 3 player game includes an additional player i.e the defender that tries to stop the pursuer from intercepting the target. On inspecting the literature, most methods split the timeline into 2 parts. The first is a game between the missile, defender and the target and the second part is a game solely between the pursuer and evader. This is effected by considering two different cost functions or considering an impulse function. Based on the terminal weights, game has been classified as between decisive players, bad defender, bad pursuer and solution to each case has been obtained analytically. 
 
 
